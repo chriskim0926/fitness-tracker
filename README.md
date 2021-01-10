@@ -18,7 +18,7 @@ Fitness tracker is workout tracking application and show your current workout st
 ## Live Application
 [Heroku](https://aqueous-waters-10925.herokuapp.com/).
 
-<img src="./public/assets/img/fitness.png" width="350">
+<img src="./public/assets/fitness.png" width="350">
 
 ## Contributor
 Chris Kim
