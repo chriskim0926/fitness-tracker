@@ -22,7 +22,7 @@ Fitness tracker is workout tracking application and show your current workout st
 
 ## Contributor
 Chris Kim
-git 
+
 ## Licensing
 Copyright (c) [2020] [Chris Kim]
 
